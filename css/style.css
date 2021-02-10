@@ -1,0 +1,52 @@
+body{
+
+  margin:0px;
+  text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+h1
+{
+  font-size: 50px;
+  margin-top: 50px;
+  font-family: 'Caveat', cursive;
+}
+h2
+{
+  font-family: 'Dancing Script', cursive;
+}
+h3
+{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.top-container
+{
+background-color: #ccf2f4;
+  }
+.middle-container{
+ background-color: #bce6eb;
+}
+.bottom-container
+{
+background-color: #b9fffc;
+}
+
+img{
+  height: 200px;
+  width:250px;
+}
+
+.pro{
+  text-decoration:underline;
+}
+.onion{
+  position:relative;
+/*  left:300px;
+  top:50px;*/
+}
+.onionn
+{
+  position:relative;
+/*  right:300px;
+  bottom:25px;*/
+}
